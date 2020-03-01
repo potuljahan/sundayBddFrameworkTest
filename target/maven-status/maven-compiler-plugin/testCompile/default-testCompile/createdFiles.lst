@@ -1,0 +1,15 @@
+bdd\stepDef\GoogleSearch.class
+bdd\newtours\pageAction\NewtoursHomePageAction.class
+bdd\utilities\ReadExcelSheetData.class
+bdd\runners\RunnerClass.class
+bdd\utilities\BeforeAction.class
+bdd\newtours\pageElements\RegisterpageLocators.class
+bdd\utilities\AfterAction.class
+bdd\google\pageAction\HomePageAction.class
+bdd\utilities\SetupDrivers.class
+bdd\newtours\pageAction\RegisterConfPageAction.class
+bdd\google\pageElements\GoogleHomepageLocators.class
+bdd\stepDef\NewtoursRegister.class
+bdd\newtours\pageElements\HomepageLocators.class
+bdd\newtours\pageAction\RegisterRegisterAction.class
+bdd\newtours\pageElements\RegisterConfrmPageLocators.class

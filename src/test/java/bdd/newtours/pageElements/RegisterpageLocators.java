@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 public class RegisterpageLocators {
 	
 	@FindBy(xpath="//input[@name='firstName']")
-	public WebElement FirstName;
+	public WebElement FirstName; 
 	
 	@FindBy(xpath="//input[@name='laststName']")
 	public WebElement LaststName;

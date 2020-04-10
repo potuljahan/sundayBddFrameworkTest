@@ -27,7 +27,7 @@ public void fillUPMailingInfo(){
 	newtoursRegisterpageLocators.postalCode.sendKeys("01001");
 	
 	Select mydrpdwn = new Select (newtoursRegisterpageLocators.country);
-	mydrpdwn.selectByVisibleText("UNITED STATES");
+	mydrpdwn.selectByVisibleText("UNSTATE SITED ");
 }
 public void fillUPUserInfo(String username){
 	newtoursRegisterpageLocators.Username.sendKeys("mithunbegum");
